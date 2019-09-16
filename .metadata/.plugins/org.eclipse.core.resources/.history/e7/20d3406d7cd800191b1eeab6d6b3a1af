@@ -1,0 +1,19 @@
+package skola;
+
+import java.util.Scanner;
+
+public class skola {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		
+		String namn;
+		
+		System.out.println("Vad heter du?");
+		
+		namn = input.nextLine();
+		
+		
+	}
+
+}

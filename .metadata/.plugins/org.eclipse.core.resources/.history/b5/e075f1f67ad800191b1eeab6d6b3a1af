@@ -1,0 +1,11 @@
+package skola;
+
+import java.util.Scanner;
+
+public class skola {
+
+	public static void main(String[] args) {
+		
+	}
+
+}

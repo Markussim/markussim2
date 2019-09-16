@@ -1,0 +1,14 @@
+package skola;
+
+import java.util.Scanner;
+
+public class skola {
+
+	public static void main(String[] args) {
+		String namn1 = "Markus Simonsen";
+		String namn2 = "Linus Pucko";
+		Scanner input = new Scanner(System.in);
+		System.out.println(hehe);
+	}
+
+}
